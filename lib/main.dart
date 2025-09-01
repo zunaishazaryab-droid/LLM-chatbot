@@ -10,6 +10,8 @@ void main() async{
     options: DefaultFirebaseOptions.currentPlatform,);
   runApp(const MyApp());
 }
+jskdaksdj
+sdasda
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
